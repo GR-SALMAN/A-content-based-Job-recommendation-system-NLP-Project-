@@ -28,7 +28,7 @@ The following algorithms are used in the Job Recommendation System:
 - **Cosine Similarity**: Used to measure the similarity between resumes and job descriptions.
 
 ## Datasets
-
+- **Source:** The dataset is collected from Kaggle: https://www.kaggle.com/competitions/job-recommendation
 - **Resumes**: Contains information about job seekers' skills, experiences, education, and other relevant details.
 - **Job Descriptions**: Includes detailed descriptions of job roles, responsibilities, required skills, qualifications, and other job-specific information.
 
